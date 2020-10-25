@@ -1,0 +1,13 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrey Masiero <andreymasiero@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
